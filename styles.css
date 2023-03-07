@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+    background-color: #1f2937;
+    font-size: 24px;
+    color: #f9faf8;
+    font-weight: bolder;
+    padding: 20px;
+    align-items: center;
+}
+.right-links{
+    font-size: 18px;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+}
+li{
+    padding-left: 32px;
+    margin: 0px;
+}
+a{
+    text-decoration: none;
+    color:#e5e7eb;
+}
