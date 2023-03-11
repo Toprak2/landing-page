@@ -78,7 +78,7 @@ button{
     gap:50px;
 }
 .item{
-    max-width: 15g0px;
+    max-width: 150px;
     text-align: center;
 }
 .information-image{
@@ -88,4 +88,22 @@ button{
     border-radius: 10px;
     margin: auto;
     padding-bottom: 5px ;
+}
+.section-2{
+    padding: 10px 0 80px;
+}
+.section-3{
+    background-color: #e5e7eb;
+    padding: 80px 0;
+}
+.quote{
+    font-size: 36px;
+    color: #1f2937;
+    font-style:italic;
+    max-width: 700px;
+    margin: auto    ;
+}
+.quoted-name{
+    text-align:right;
+    font-weight: bold;
 }
