@@ -44,11 +44,9 @@ a{
 .hero{
     background-color: #1f2937;
     width: 100%;
-}
-.hero-text{
     margin: 0px;
 }
-.hero-text .heading{
+.hero .heading{
     font-size: 48px;
     color: #e5e7eb;
     margin: 0px;
