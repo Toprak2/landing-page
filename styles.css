@@ -70,17 +70,21 @@ button{
     font-size: 36px;
     font-weight: bolder;
     color: #1f2937;
+    padding: 30px;
 }
 .information-boxes{
     display: flex;
     justify-content: center;
+    gap:50px;
 }
 .item{
     max-width: 200px;
+    text-align: center;
 }
 .information-image{
     width: 100px;
     height: 100px;
     border: #3882F6 3px solid;
     border-radius: 10px;
+    margin: auto;
 }
