@@ -1,15 +1,23 @@
 body{
     margin: 0px;
 }
+.section-wrapper{
+    max-width: 1200px;
+    margin: auto;
+}
 .header{
     display: flex;
     justify-content: space-around;
     background-color: #1f2937;
+    padding: 20px 0;
+    align-items: center;
+    width: 100%;
+}
+.header .heading{
     font-size: 24px;
     color: #f9faf8;
     font-weight: bolder;
-    padding: 20px;
-    align-items: center;
+    flex:0 1 auto;
 }
 .right-links{
     font-size: 18px;
@@ -27,4 +35,21 @@ li{
 a{
     text-decoration: none;
     color:#e5e7eb;
+}
+.image{
+    width: 500px;
+    height: 200px;
+    background-color: gray;
+}
+.hero{
+    background-color: #1f2937;
+    width: 100%;
+}
+.hero-text{
+    margin: 0px;
+}
+.hero-text .heading{
+    font-size: 48px;
+    color: #e5e7eb;
+    margin: 0px;
 }
