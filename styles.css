@@ -82,4 +82,5 @@ button{
     width: 100px;
     height: 100px;
     border: #3882F6 3px solid;
+    border-radius: 10px;
 }
