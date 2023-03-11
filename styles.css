@@ -78,13 +78,14 @@ button{
     gap:50px;
 }
 .item{
-    max-width: 200px;
+    max-width: 15g0px;
     text-align: center;
 }
 .information-image{
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     border: #3882F6 3px solid;
     border-radius: 10px;
     margin: auto;
+    padding-bottom: 5px ;
 }
