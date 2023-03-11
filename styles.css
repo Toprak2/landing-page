@@ -60,10 +60,13 @@ a{
 }
 button{
     background-color: #3882F6;
-    padding: 7px 25px;
+    padding: 10px 30px;
     color: #e5e7eb;
     border-radius: 10px;
     border-style: none;
+    margin: 5px 0 0 0;
+    font-size: 16px;
+    font-weight: bold;
 }
 .information{
     text-align: center;
@@ -106,4 +109,24 @@ button{
 .quoted-name{
     text-align:right;
     font-weight: bold;
+}
+.sign-up{
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+    background-color:#3882F6;
+    border-radius: 15px;
+    padding: 40px 0;
+    margin: 75px 0;
+}
+.sign-up button{
+border: #e5e7eb 3px solid;
+}
+.sign-up .heading{
+    font-size: 24px;
+    color: #e5e7eb;
+    font-weight: bold;
+}
+.sign-up .secondary{
+    color: #e5e7eb;
 }
