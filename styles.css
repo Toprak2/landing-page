@@ -112,8 +112,7 @@ button{
 }
 .sign-up{
     display: flex;
-    justify-content: center;
-    gap: 150px;
+    justify-content: space-around;
     background-color:#3882F6;
     border-radius: 15px;
     padding: 40px 0;
@@ -129,4 +128,10 @@ border: #e5e7eb 3px solid;
 }
 .sign-up .secondary{
     color: #e5e7eb;
+}
+.footer{
+    color: #e5e7eb;
+    background-color: #1f2937;
+    padding: 40px 0;
+    text-align: center;
 }
