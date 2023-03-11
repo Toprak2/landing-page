@@ -65,3 +65,15 @@ button{
     border-radius: 10px;
     border-style: none;
 }
+.information-boxes{
+    display: flex;
+    justify-content: center;
+}
+.item{
+    max-width: 200px;
+}
+.information-image{
+    width: 100px;
+    height: 100px;
+    border: #3882F6 3px solid;
+}
