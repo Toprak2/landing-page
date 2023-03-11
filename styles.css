@@ -65,6 +65,12 @@ button{
     border-radius: 10px;
     border-style: none;
 }
+.information{
+    text-align: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+}
 .information-boxes{
     display: flex;
     justify-content: center;
